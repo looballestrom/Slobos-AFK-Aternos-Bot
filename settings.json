@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cokeain.aternos.me",
-    "port": 53598,
+    "ip": "cokeain-ur4E.aternos.me:44274",
+    "port": ,
     "version": "1.19.1",
     "try-creative": false
   },
